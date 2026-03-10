@@ -1,7 +1,7 @@
 ## LogosCat - Polyglot Workspace
 
 
-## What is LogosCat?
+## What is LogosCat? Visit: www.logoscat.com
 
 There are many ways to learn a language — read <a href="https://portal.logoscat.com/finding-your-path-to-fluency/" target="_blank">this</a> if you're still exploring which approach works best for you.
 LogosCat is for people learning while reading books/articles, listening, concentrating on hard parts, analyzing texts and expanding vocabulary.
