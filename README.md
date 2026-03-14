@@ -1,4 +1,4 @@
-## LogosCat - Polyglot Workspace
+## LogosCat - Polyglot Workspace - Learn Languages By Reading, Listening, Translating, Analyzing, Using AI tools
 
 
 ## What is LogosCat? Visit: www.logoscat.com
