@@ -21,7 +21,7 @@ Its backend and UIs live in the **shakti-actors** Scala application, which coord
 
 All deployment, Docker setup, and orchestration live in **shakti-deployment**.
 
-## Internal Project Name: Shakti - the smart and powerful Goddess
+### Internal Project Name: Shakti - the smart and powerful Goddess
 
 <img src="shakti.jpg" width="300" />
 
