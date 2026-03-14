@@ -21,6 +21,11 @@ Its backend and UIs live in the **shakti-actors** Scala application, which coord
 
 All deployment, Docker setup, and orchestration live in **shakti-deployment**.
 
+## Internal Project Name: Shakti - the smart and powerful Goddess
+
+![Alt text](shakti.jpg)
+
+
 # Central Hub: shakti-actors
 
 **shakti-actors** is a Scala application built on **Akka (Pekko) Typed** and **Akka HTTP**.
