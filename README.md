@@ -23,7 +23,7 @@ All deployment, Docker setup, and orchestration live in **shakti-deployment**.
 
 ### Internal Project Name: Shakti - Smart and Powerful Goddess
 
-<img src="shakti.jpg" width="300" />
+<img src="shakti.jpg" width="100" />
 
 
 
