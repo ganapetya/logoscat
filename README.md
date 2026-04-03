@@ -32,7 +32,7 @@ A rich set of features, all focused on one goal: improving your proficiency in a
 ## LogosCat architecture
 A part of it...to get a taste...
 
-![Alt text](arch.png)
+![Alt text](arch.pn)
 
 
 # Overview
