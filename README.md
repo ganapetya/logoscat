@@ -127,6 +127,10 @@ The service compiles one graph per version (build_graph()), invokes it per user 
 and persists state between turns outside the graph. So it’s LangGraph at the core—stateful, multi-node conversation workflows 
 (init, extraction, drill, iteration, normal chat, safe fallback) with validated routing and one LLM call per turn where applicable.
 
+# Sgakti-game-engine (Beta)
+
+rust based engine for textual games and puzzles
+
 # Chrome Extension
 
 A separate Chrome extension connects to the Shakti backend.
